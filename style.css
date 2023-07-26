@@ -1,0 +1,27 @@
+#select{
+    max-width: 300px !important;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+.text{
+    margin: 10px;
+}
+
+.text1{
+    color: green;
+    margin-right: 50px;
+}
+
+.text2{
+    color: red;
+}
+
+.text3{
+    color: blue;
+    margin-left: 50px;
+}
+
